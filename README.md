@@ -139,7 +139,7 @@ However, challenges may include facing stereotypes, biases, and sometimes discri
 Ultimately, your candidacy can be a significant step toward promoting diversity
 
 --------
-![plot](img/jsd.png)
+
 
 ![plot](img/can.png)
 
